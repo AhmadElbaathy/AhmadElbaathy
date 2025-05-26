@@ -65,7 +65,7 @@
   <a href="mailto:ahmadelbaathy@gmail.com">  
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>  
   </a>  
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHClsgnxAQ3qXUwqkKcYFqg%3D%3D">  
+  <a href="[https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHClsgnxAQ3qXUwqkKcYFqg%3D%3D](https://www.linkedin.com/in/ahmad-elbaathy-bb8981367/?trk=public-profile-join-page)">  
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>  
   </a>  
 </p>  
