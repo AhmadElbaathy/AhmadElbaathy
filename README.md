@@ -48,12 +48,8 @@
 ## ⚡ Some Cool Tools I Use:  
 <div align="center">  
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40px"></a>  
-  <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px"></a>  
   <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px"></a>  
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px"></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40px"></a>  
-  <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40px"></a>  
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40px"></a>  
 </div>
 
 
