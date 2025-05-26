@@ -38,7 +38,6 @@
   <a href="https://opencv.org/"> <img src="https://skillicons.dev/icons?i=opencv"/> </a>
   <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow"/> </a>
   <a href="https://pytorch.org/"> <img src="https://skillicons.dev/icons?i=pytorch"/> </a>
-  <a href="https://www.redhat.com/"> <img src="https://skillicons.dev/icons?i=redhat"/> </a>
   <a href="https://ubuntu.com/"> <img src="https://skillicons.dev/icons?i=ubuntu"/> </a>
 </div>  
 
