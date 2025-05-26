@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Zeyad%20Ayman&fontSize=55&fontAlign=50&fontAlignY=50&color=0:0D1117,100:1E90FF&desc=A%20Passionate%20Software%20Engineer&descAlign=50&descAlignY=70&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Ahmad%20Elbaathy&fontSize=55&fontAlign=50&fontAlignY=50&color=0:0D1117,100:1E90FF&desc=A%20Passionate%20Software%20Engineer&descAlign=50&descAlignY=70&animation=fadeIn"/>
 </div>
 
 <div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=ZeyadArafa&style=for-the-badge&color=1E90FF" alt="Profile Views"/>  
+  <img src="https://komarev.com/ghpvc/?username=AhmadElbaathy&style=for-the-badge&color=1E90FF" alt="Profile Views"/>  
 </div>
 
 <h2 align="center">  
