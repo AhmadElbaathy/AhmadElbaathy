@@ -31,10 +31,8 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://skillicons.dev/icons?i=cs"/> </a>
   <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java"/> </a>
   <a href="https://dart.dev/"> <img src="https://skillicons.dev/icons?i=dart"/> </a>
-  <a href="https://flutter.dev/"> <img src="https://skillicons.dev/icons?i=flutter"/> </a>
   <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python"/> </a>
   <a href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux"/> </a>
-  <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git"/> </a>
   <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql"/> </a>
   <a href="https://www.postgresql.org/"> <img src="https://skillicons.dev/icons?i=postgres"/> </a>
   <a href="https://opencv.org/"> <img src="https://skillicons.dev/icons?i=opencv"/> </a>
@@ -42,7 +40,6 @@
   <a href="https://pytorch.org/"> <img src="https://skillicons.dev/icons?i=pytorch"/> </a>
   <a href="https://www.redhat.com/"> <img src="https://skillicons.dev/icons?i=redhat"/> </a>
   <a href="https://ubuntu.com/"> <img src="https://skillicons.dev/icons?i=ubuntu"/> </a>
-  <a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity"/> </a>
 </div>  
 
 ## ⚡ Some Cool Tools I Use:  
